@@ -50,6 +50,7 @@ nav ul li {
 }
 
 @media only screen and (min-width: 38em) {
+
   h1 {
     text-align: left;
     padding-left: .25em;
@@ -58,4 +59,5 @@ nav ul li {
   nav ul {
     text-align: right;
   }
+
 }
